@@ -1,6 +1,6 @@
 # Object-Oriented Programming (OOP) Explorations
 
-## 🚀 Overview
+## Overview
 
 This repository explores the core principles of Object-Oriented Programming (OOP) using Python. It’s meant to be a hands-on, beginner-friendly resource with practical code examples and Jupyter notebooks that walk through the fundamentals step by step.
 
@@ -8,7 +8,7 @@ It’s not meant to be perfect or exhaustive — just a genuine effort to make t
 
 Whether you're new to OOP or brushing up your Python skills, this repo lays the groundwork for more advanced object-oriented design and software architecture.
 
-## 📂 Repository Structure
+## Repository Structure
 
 | File/Notebook               | Description                                      |
 |----------------------------|--------------------------------------------------|
@@ -23,14 +23,14 @@ Whether you're new to OOP or brushing up your Python skills, this repo lays the 
 | `OOP_introduction.ipynb`   | Gentle notebook intro to OOP concepts.           |
 | `OOP-tutorial.ipynb`       | Tutorial-style walkthrough of key OOP patterns.  |
 
-## 🎯 Objectives
+## Objectives
 
 - Build intuition for classes, instances, and methods.
 - Understand encapsulation, inheritance, and polymorphism.
 - Use decorators like `@property` for clean interfaces.
 - Apply OOP concepts to practical, reusable code examples.
 
-## 🛠️ Getting Started
+## Getting Started
 
 To try things out locally:
 
