@@ -1,8 +1,10 @@
-# 🧠 Object-Oriented Programming (OOP) Explorations
+# Object-Oriented Programming (OOP) Explorations
 
 ## 🚀 Overview
 
-This repository dives into the core principles of Object-Oriented Programming (OOP) using Python. It serves as a hands-on resource to reinforce OOP fundamentals through real code, examples, and interactive notebooks.
+This repository explores the core principles of Object-Oriented Programming (OOP) using Python. It’s meant to be a hands-on, beginner-friendly resource with practical code examples and Jupyter notebooks that walk through the fundamentals step by step.
+
+It’s not meant to be perfect or exhaustive — just a genuine effort to make this sometimes-confusing topic a little more approachable. If it helps even one person wrap their head around classes, inheritance, or `@property`, then it's doing its job.
 
 Whether you're new to OOP or brushing up your Python skills, this repo lays the groundwork for more advanced object-oriented design and software architecture.
 
